@@ -62,7 +62,6 @@ sysinfo.txt
 *.unitypackage
 *.unitypackage.meta
 *.app
-packages/
 Assets/
 
 # Crashlytics generated file

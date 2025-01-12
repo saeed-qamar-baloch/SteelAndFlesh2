@@ -62,7 +62,7 @@ sysinfo.txt
 *.unitypackage
 *.unitypackage.meta
 *.app
-Assets/
+Assets/Viking Village/
 
 # Crashlytics generated file
 crashlytics-build.properties
